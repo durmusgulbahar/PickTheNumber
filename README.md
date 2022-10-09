@@ -2,7 +2,9 @@
 
 ## Created for Akbank Practicum with Hardhat
 
-### PICK THE NUMBER GAME
+### PICK THE NUMBER GAME 
+
+--contract address-- -> 0x939e933F267cF9b866881f9E76548F4BE0B15799
 
 1. Oyuncu oyuna girişte bir ücret(0.005 ether) öder ve 0-9 arası bir sayı seçer. 
     - Oyuna giriş eventi tetiklenir.
